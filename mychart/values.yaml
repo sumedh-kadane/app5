@@ -2,6 +2,6 @@ replicaCount: 1
 
 image:
   # repository: [dockerhub username]/app6
-  repository: amitksunbeam/app6
+  repository: sumedhk123/app6
   pullPolicy: Always
   tag: latest
